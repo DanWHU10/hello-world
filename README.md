@@ -1,2 +1,3 @@
 # hello-world
 Ideas....
+My name is Daniel, im a 20 year old biochemistry student learning to become a fullstack software engineer
